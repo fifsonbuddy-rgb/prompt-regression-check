@@ -1,0 +1,10 @@
+{
+  "refund-routing": {
+    "forbids": ["automatic refund"],
+    "json_fields": {"queue": "billing", "needs_review": true}
+  },
+  "shipping-reply": {
+    "contains": ["tracking number"],
+    "forbids": ["guaranteed delivery"]
+  }
+}

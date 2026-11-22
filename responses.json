@@ -1,0 +1,4 @@
+{
+  "refund-routing": "{\"queue\": \"billing\", \"needs_review\": true}",
+  "shipping-reply": "Send your tracking number and I can check the shipment status."
+}
